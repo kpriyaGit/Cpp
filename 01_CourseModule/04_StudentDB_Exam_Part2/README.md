@@ -72,33 +72,33 @@ Output the resulting JSON to a file. Here’s an example with one course and one
 {
 "courses" : [
 		{
-			"courseKey" : 12345,
-			"creditPoints" : 5,
-			"dayOfWeek" : 4,
-			"endTime" : "19:00",
-			"major" : "A",
-			"startTime" : "17:45",
-			"title" : "APT"
+		    "courseKey" : 12345,
+		    "creditPoints" : 5,
+		    "dayOfWeek" : 4,
+		    "endTime" : "19:00",
+		    "major" : "A",
+		    "startTime" : "17:45",
+		    "title" : "APT"
 		}
 	],
 "students" : [
 		{
-			"address" : {
-				"additionalInfo" : "",
-				"cityName" : "Sometown",
-				"houseNumber" : "42a",
-				"postalCode" : 1000,
-				"street" : "Mainstreet"
+		    "address" : {
+		    	"additionalInfo" : "",
+			"cityName" : "Sometown",
+			"houseNumber" : "42a",
+			"postalCode" : 1000,
+			"street" : "Mainstreet"
 			},
-			"enrollments" : [
-				{
-					"courseKey" : 12345,
-					"grade" : 0
-				}
-			],
-			"firstName" : "Muster",
-			"lastName" : "Mann",
-			"matrikelNumber" : 1234567
+		    "enrollments" : [
+					{
+					    "courseKey" : 12345,
+					    "grade" : 0
+					}
+				   ],
+		    "firstName" : "Muster",
+		    "lastName" : "Mann",
+		    "matrikelNumber" : 1234567
 		}
 	]
 }

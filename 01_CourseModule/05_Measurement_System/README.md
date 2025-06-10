@@ -2,7 +2,7 @@
 
 Topic of this exam is the handling of measurement values from some sensor such as a temperature or humidity sensor.
 
-![Figure 1 - Class Diagram](./images/Class_Diag.JPG)
+![Figure 1 - Class Diagram](./images/Class_Diag.jpg)
 
 The diagram shows only the classes and their relationships. The attributes and methods are found in the class definitions.
 

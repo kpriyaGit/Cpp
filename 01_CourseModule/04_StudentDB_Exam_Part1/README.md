@@ -1,6 +1,6 @@
 # Student Database - Add attribute semester to Class Course (Module Exam WiSe2021)
 
-This folder is an extension of [03_Lab_Student_Database](https://github.com/kpriyaGit/Cpp/03_Lab_Student_Database)
+This folder is an extension of [03_Lab_Student_Database](https://github.com/kpriyaGit/Cpp/tree/main/01_CourseModule/03_Lab_Student_Database)
 
 A course takes place in a particular semester. It therefore makes sense to add this information as an attribute semester in class Course.
 

@@ -33,7 +33,7 @@ Create a StudentDb and a SimpleUI in main and test the implementation.
 
 ## Exercise 2: Persisting the database
 
-Write the database content to a file. The file format is derived from the commonly used [CSV format] (https://en.wikipedia.org/wiki/Comma-separated_values).
+Write the database content to a file. The file format is derived from the commonly used [CSV format](https://en.wikipedia.org/wiki/Comma-separated_values).
 In order to store all data in one file, we first write a line with the number of data sets of a given kind and then all data sets, using a semicolon to separate the values. The file starts with the courses,
 followed by the student data (Student's data members and address data), followed by the enrollment data.
 Here’s a short example:

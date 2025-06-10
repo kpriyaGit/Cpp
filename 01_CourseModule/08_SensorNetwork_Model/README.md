@@ -17,4 +17,4 @@ Unless there is an error, running your tests must not produce any output on the 
 
 The Illustration mentioned in TableBasedAdjuster::adjust:
 
-![Figure 2 - Graph](./images/Graph.JPG)
+![Figure 2 - Graph](./images/Graph.jpg)
